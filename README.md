@@ -4,5 +4,7 @@ Conducted a comprehensive analysis using R to evaluate customer satisfaction lev
 Key Achievements:
 
 Data Insights: Identified key satisfaction drivers such as flight cancellations, delay times, class of service, gender-specific preferences, and loyalty program tiers, providing a nuanced understanding of factors affecting customer satisfaction.
+
 Strategic Recommendations: Developed targeted strategies to enhance customer service, including minimizing flight delays, improving service for eco-plus passengers, and tailoring experiences to meet the needs of female passengers and low-tier loyalty members.
+
 Visualization: Crafted compelling data visualizations to illustrate the impact of various factors on satisfaction rates, facilitating clear, actionable insights for potential operational improvements.
